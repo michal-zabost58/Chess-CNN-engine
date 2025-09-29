@@ -1,1 +1,1 @@
-The file with data was to large to include it here. If you want to train the model yourself and obtain results from paper, please go to this site: https://database.nikonoel.fr/ and download file from February 2022.
+The file with data was to large to include it here. If you want to train the model yourself and obtain results from paper, please go to this site: https://database.nikonoel.fr/ and download file from February 2022, however you can choose pretty much any other. The only thing that is important is for that to be in .pgn format
